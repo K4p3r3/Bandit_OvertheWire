@@ -81,6 +81,7 @@ in that working directory then view the content of the file using "cat" command 
 
 ----------------------------------------------------------------------------
 bandit0@bandit:~$ ls
+
 readme
 bandit0@bandit:~$ cat readme 
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
